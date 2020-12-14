@@ -133,9 +133,9 @@ function mouseDragged(){
 }
 
 function mouseReleased(){
-	if(keyCode === 32){
+	
 	sling.fly();
-	}
+	
 }
 
 
